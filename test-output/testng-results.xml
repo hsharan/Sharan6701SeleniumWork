@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="156" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="156" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+      <class name="SeleniumSessions.TestNGExecutionSequence">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="beforeSuite" is-config="true" duration-ms="49" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="beforeClass" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="test1" duration-ms="25" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="test2" duration-ms="7" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:SeleniumSessions.TestNGExecutionSequence@91161c7]" name="afterSuite" is-config="true" duration-ms="2" started-at="2021-04-09T14:30:46Z" finished-at="2021-04-09T14:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- SeleniumSessions.TestNGExecutionSequence -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
